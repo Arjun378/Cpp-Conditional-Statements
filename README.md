@@ -8,9 +8,6 @@ This repository provides an in-depth guide and examples for understanding and us
 - [Switch Statements](#switch-statements)
 - [Ternary Operator](#ternary-operator)
 - [Logical Operators](#logical-operators)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction to Conditional Statements
 
@@ -32,7 +29,4 @@ The ternary operator (`? :`) is a concise way to write conditional statements. E
 
 Understand the logical operators (`&&`, `||`, `!`) used to combine conditions. Learn how to create complex conditions and improve code readability.
 
-## Examples
-
-The 'examples' directory in this repository contains C++ code samples that demonstrate various use cases of conditional statements. These examples cover common scenarios and can be used for learning and practice.
 
