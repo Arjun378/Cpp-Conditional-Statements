@@ -8,7 +8,7 @@ This repository provides an in-depth guide and examples for understanding and us
 - [Switch Statements](#switch-statements)
 - [Ternary Operator](#ternary-operator)
 - [Logical Operators](#logical-operators)
-- [Outputs]
+- [Output](#output)
 
 ## Introduction to Conditional Statements
 
@@ -30,14 +30,14 @@ The ternary operator (`? :`) is a concise way to write conditional statements. E
 
 Understand the logical operators (`&&`, `||`, `!`) used to combine conditions. Learn how to create complex conditions and improve code readability.
 
-### Outputs:
- ## Largest Number: 
+## Outputs:
+ ### Largest Number: 
  ![Screenshot 2023-10-27 192448](https://github.com/Arjun378/Cpp-Conditional-Statements/assets/74441883/ce5d2352-8d6b-4a74-9547-c5c69a3e276e)
 
- ## Grading Program: 
+ ### Grading Program: 
  ![Screenshot 2023-10-27 192542](https://github.com/Arjun378/Cpp-Conditional-Statements/assets/74441883/f5784c87-96d1-4e7c-a59d-61f1bfa5cbfb)
 
- ## Odd-Even:
+ ### Odd-Even:
  ![Screenshot 2023-10-27 192620](https://github.com/Arjun378/Cpp-Conditional-Statements/assets/74441883/58fe17e8-740b-467c-95ff-17ee56ccd5aa)
 
 
